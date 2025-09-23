@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.glowcodestudio.threesides",
+      "sha256_cert_fingerprints": [
+        "D9:DE:51:35:D9:92:91:6D:48:D1:8D:65:60:CF:81:68:F2:0B:79:7F:EC:F9:6C:33:F6:2E:37:B3:AF:DD:47:28"
+      ]
+    }
+  }
+]
